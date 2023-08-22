@@ -1,2 +1,2 @@
 # OnePlus-LandingPage
-Link : https://viplov-singh19.github.io/OnePlus-LandingPage/
+Link : https://amanshrma16.github.io/Oneplus_landingpage/
